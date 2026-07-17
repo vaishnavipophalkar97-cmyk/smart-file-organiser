@@ -12,7 +12,7 @@ This organizer follows a structured 4-step pipeline:
 
 Targeting: Dynamically resolves your computer's Desktop path using cross-platform libraries (supports Windows, macOS, and Linux).
 
-Scanning: Iterates through all items within a designated "sandbox" or target folder, ignoring existing folders and subdirectories.
+Scanning: Iterates through all items within a designated target folder, ignoring existing folders and subdirectories.
 
 Classification: Detects the lowercase suffix (extension) of each file and checks it against a mapped dictionary of rules.
 
@@ -31,7 +31,7 @@ python --version
 
 Clone this repository (or download the source files) to your local machine:
 
-git clone https://github.com/YOUR_USERNAME/smart-file-organizer.git
+git clone https://github.com/vaishnavipophalkar97-cmyk/smart-file-organizer.git
 cd smart-file-organizer
 
 
