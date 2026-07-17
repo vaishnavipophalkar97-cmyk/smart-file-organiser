@@ -37,9 +37,7 @@ cd smart-file-organizer
 
 3. Running the Script
 
-By default, the script is configured to look for a folder named organizer_sandbox on your Desktop.
-
-Create a folder named organizer_sandbox on your Desktop.
+Input your folder name
 
 Put some test files inside (e.g., test.pdf, photo.jpg, song.mp3).
 
