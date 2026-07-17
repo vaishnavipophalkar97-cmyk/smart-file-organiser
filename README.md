@@ -37,7 +37,7 @@ cd smart-file-organizer
 
 3. Running the Script
 
-Input your folder name
+Input your folder path
 
 Put some test files inside (e.g., test.pdf, photo.jpg, song.mp3).
 
